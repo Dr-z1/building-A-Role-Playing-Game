@@ -1,13 +1,12 @@
-# **Rock, Paper, Scissors Game Project**
+# **Role Playing Game Project**
 
 ## **Project Overview**
 
 
-#### This Project Is A **Rock, Paper, Scissors Game**, Developed As Part of The FreeCodeCamp Curriculum. 
+#### This Project Is A **Role Playing Game**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-#### The Primary Goal Is You Learned How To Work With Basic DOM Manipulation.
+#### The Primary Goal Is You Learned Basic JavaScript By Building A Role Playing Game Project.
 
-Now It Is Time To Review What You Have Learned By Building a Rock, Paper, Scissors Game.
 
 
 ## **Course Details**
@@ -15,7 +14,7 @@ Now It Is Time To Review What You Have Learned By Building a Rock, Paper, Scisso
 
 + **Course Section**: JavaScript Algorithms and Data Structures (Beta).
   
-+ **Project Name**: Rock, Paper, Scissors Game.
++ **Project Name**: Role Playing Game.
   
 + This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
   
@@ -24,14 +23,15 @@ Now It Is Time To Review What You Have Learned By Building a Rock, Paper, Scisso
 
 ## **Purpose**
 
-In The Previous Projects You Learned How To Work With Basic DOM Manipulation. 
+JavaScript Is A Powerful Scripting Language That You Can Use To Make Web Pages Interactive. 
 
-Now It Is Time To Review What You Have Learned By Building A Rock, Paper, Scissors Game.  
+It's One Of The Core Technologies Of The Web, Along With HTML And CSS. 
 
-In This Mini Project, You Will Review Conditionals, Functions, GetElementById, And More. 
+All Modern Browsers Support JavaScript.  
 
-This Project Will Give You An Opportunity To Solve Small Problems And Get A Better Understanding Of The Basics.
+In This Practice Project, You'll Learn Fundamental Programming Concepts In JavaScript By Coding Your Own Role Playing Game. 
 
+You'll Learn How To Work With Arrays, Strings, Objects, Functions, Loops, If/Else Statements, And More.
 
 ## **Acknowledgment**
 
